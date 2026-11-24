@@ -8,6 +8,8 @@ A program that writes a 1024x1024 front-page image summing up the world's news o
 
 Verified: the image was drawn from the day's news (Nvidia, NATO space, Kyiv, Libya, Indonesia, Grok), is deterministic, and the program checks after copying that the output is byte-for-byte the source.
 
+Dense edition: 33 short stories across 7 regions plus an also-today block — the 22 November page carried only 6 stories and finished 6,517th of 16,750, while the winner packed 29.
+
 ## Run it
 
 ```sh
