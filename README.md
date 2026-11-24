@@ -6,6 +6,8 @@
 
 A program that writes a 1024x1024 front-page image summing up the world's news of Tuesday 24 November 2026 to /output/entry.png.
 
+Verified: the image was drawn from the day's news (Nvidia, NATO space, Kyiv, Libya, Indonesia, Grok), is deterministic, and the program checks after copying that the output is byte-for-byte the source.
+
 ## Run it
 
 ```sh
